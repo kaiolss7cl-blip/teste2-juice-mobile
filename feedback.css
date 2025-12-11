@@ -1,0 +1,98 @@
+nav{
+    color: antiquewhite;
+    padding: 3%;
+    background-color: #1c6805;
+    text-align: center;
+    display: flex;
+    max-width: 100%;
+    flex-wrap: wrap;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin: 0.4% 3%;
+    padding: 3%;
+    font-size: 120%;
+    display: inline-block;
+    background-color: green;
+    border-radius: 20px;
+}
+
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+
+
+header img{
+    width: 100%;
+}
+
+body{
+    background-color: #a4bc6b;
+}
+
+footer{
+    margin: 4% 0 0 0;
+    background-color: #1c6805;
+    padding: 10% 10% 15% 10%;
+}
+
+footer p{
+    text-align: center;
+    color: white;
+    margin: 0 0 0 -2%;
+}
+
+footer img{
+    width: 10%;
+    height: 10%;
+    margin: 2% 0 0 9%;
+}
+footer a{
+    text-decoration: none;
+    color:inherit;
+
+}
+.pe1{
+    font-size: 9.6px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.pe{
+    font-size: 90%;
+    display: inline-block;
+    margin-left: 2.5%;
+}
+.container{
+    width: 80%;
+    height: 25%;
+    padding: 3.5% 0;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(20px) brightness(120%);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+    margin: 3% 10%;
+}
+form{
+    text-align: center;
+}
+form p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 120%;
+    text-align: center;
+}
+.butao{
+    background-color: #1c6805;
+    border-radius: 14px;
+    padding: 3% 6%;
+    text-align: center;
+    display: inline-block;
+    color: white;
+    border: solid 2px #fff;
+}
+textarea{
+    border-radius: 10px;
+    margin-top: -10%;
+}
